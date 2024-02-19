@@ -4,7 +4,7 @@
 </p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-rotemarie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rotem-arie-5262601b3/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Rotem](https://img.shields.io/github/followers/rotem?label=Portfolio&style=social)](https://rotemarie.github.io/)
+[![GitHub Rotem](https://img.shields.io/github/followers/rotem?label=Portfolio)](https://rotemarie.github.io/)
 
 
 ### About me:  
