@@ -17,7 +17,7 @@ const rotem = {
   Projects: {
                         TheClosetProject: "Python, Streamlit, Pandas",
                         Chem3D: "ReactNative",
-                        K-Means: "Python, Pandas, Plotply, Scikit-learn, Matplotlib"
+                        Music Recommender: "Python, Pandas, Plotply, Scikit-learn, Matplotlib"
                       },
  goals: "Securing New-Grad SWE position"
 }
